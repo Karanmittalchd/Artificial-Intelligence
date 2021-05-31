@@ -8,3 +8,6 @@ control policy; implemented Global Nearest Neighbour Filter for data association
 - Simulated navigation of an autonomous agent in grid world domain with stochastic actions and single goal state
 - Formulated the problem as a Markov Decision Process and implemented Value Iteration to find optimal policy
 - Implemented Q-Learning (Model-Free RL) to find a good policy when transition & reward functions are absent
+
+
+Course Webpage: https://www.cse.iitd.ac.in/~rohanpaul/teaching/2021-col864.html
