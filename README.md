@@ -13,3 +13,5 @@ control policy; implemented Global Nearest Neighbour Filter for data association
 
 
 Course Webpage: https://www.cse.iitd.ac.in/~rohanpaul/teaching/2021-col864.html
+
+To preview jupyter notebooks, open https://nbviewer.jupyter.org/ and paste the github link for the notebooks. Python files corresponding to jupyter notebooks are also there.
