@@ -1,3 +1,5 @@
+# COL864: Special Topics in Artificial Intelligence(Planning and Estimation of Autonomous Systems)
+
 1)State Estimation of an Autonomous Agent 
 - Discrete Space Case: Used Hidden Markov Model to estimate agent’s current location (using Bayes Filter
 algorithm), past locations (using Smoothing), future locations and most-likely path (using Viterbi algorithm)
